@@ -1,0 +1,10 @@
+name: BottleXP
+main: fr.vqh.bottlexp.Main
+description: Plugin de bottlexp
+version: 1.0
+author: Vqh
+commands:
+  bottlexp:
+    description: BottleXP.
+    usage: /bottlexp
+    permission: permission.gamemode
